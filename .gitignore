@@ -1,0 +1,5 @@
+Module101/Lesson1/ProjectWork/obj/Debug/
+*.test
+Test*
+test*
+.env 
