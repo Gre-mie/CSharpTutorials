@@ -1,0 +1,15 @@
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/bin/Debug/net10.0/starting-out
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/bin/Debug/net10.0/starting-out.deps.json
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/bin/Debug/net10.0/starting-out.runtimeconfig.json
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/bin/Debug/net10.0/starting-out.dll
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/bin/Debug/net10.0/starting-out.pdb
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.GeneratedMSBuildEditorConfig.editorconfig
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.AssemblyInfoInputs.cache
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.AssemblyInfo.cs
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.csproj.CoreCompileInputs.cache
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.sourcelink.json
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.dll
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/refint/starting-out.dll
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.pdb
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/starting-out.genruntimeconfig.cache
+/home/sen/Working/courses/CSharpTutorials/Module101/Lesson1/playground/lesson1-starting-out/starting-out/obj/Debug/net10.0/ref/starting-out.dll
