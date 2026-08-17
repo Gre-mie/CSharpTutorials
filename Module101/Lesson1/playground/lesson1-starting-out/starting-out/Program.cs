@@ -1,9 +1,12 @@
-﻿namespace starting_out;
-
-class Program
+﻿class Program 
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+  static void Main()
+  {
+    System.Console.WriteLine("Hello World!");
+    System.Console.WriteLine("Press any key to exit");
+    System.Console.ReadKey();
+
+  }
+
 }
+
