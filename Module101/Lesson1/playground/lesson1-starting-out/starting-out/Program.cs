@@ -6,6 +6,9 @@
     System.Console.WriteLine("Press any key to exit");
     System.Console.ReadKey();
 
+    System.Console.Beep();
+    System.Console.WriteLine("Boop!");
+
   }
 
 }
